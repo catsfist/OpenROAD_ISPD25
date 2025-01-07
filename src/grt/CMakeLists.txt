@@ -140,5 +140,3 @@ endif()
 messages(
   TARGET grt
 )
-
-add_subdirectory(test)
